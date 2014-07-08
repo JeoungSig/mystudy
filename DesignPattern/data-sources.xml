@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-sources>
+	<data-source id="mysql3-1361579654738--1246967273" provider="generic" driver="mysql3" name="MySQL 3.x - localhost" create-date="1361579654738" update-date="1361579720682" save-password="true" show-system-objects="true" read-only="false">
+		<connection host="localhost" port="3306" server="" database="world" url="jdbc:mysql://localhost:3306/world" user="stevenjsmin" password="BwoRLBMUFEdl8w==" type="dev"/>
+	</data-source>
+	<data-source id="mysql3-1361582467398--642399256" provider="generic" driver="mysql3" name="PHOTOME - localhost" create-date="1361582467398" save-password="true" show-system-objects="true" read-only="false">
+		<connection host="localhost" port="3306" server="" database="PHOTOME" url="jdbc:mysql://localhost:3306/PHOTOME" user="photome" password="ABADNkRNTgUIGwhe9g==" type="dev"/>
+	</data-source>
+</data-sources>
