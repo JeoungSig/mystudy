@@ -28,7 +28,7 @@ public class CustomerManager {
 		List<Customer> list = magic.createQuery("from Customer").list();
 
 		for (Customer cust : list) {
-			System.out.println("ID:" + cust.getId() + ", Customer Name : " + cust.getName() + ", Age : " + cust.getAge());
+			System.out.println("Id:" + cust.getId() + ", Customer Name : " + cust.getName() + ", Age : " + cust.getAge());
 		}
 
 	}
