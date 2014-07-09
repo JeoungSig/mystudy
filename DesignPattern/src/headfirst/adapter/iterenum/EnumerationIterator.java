@@ -21,4 +21,5 @@ public class EnumerationIterator implements Iterator {
 		throw new UnsupportedOperationException();
 	}
 	// 1
+	// 2 - Entity
 }
