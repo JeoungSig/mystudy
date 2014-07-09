@@ -20,4 +20,5 @@ public class EnumerationIterator implements Iterator {
 	public void remove() {
 		throw new UnsupportedOperationException();
 	}
+	// 1
 }
