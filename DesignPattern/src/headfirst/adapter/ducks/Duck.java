@@ -1,7 +1,8 @@
 package headfirst.adapter.ducks;
 
 /**
- * This is Duck interface class
+ * This is Duck interface class<br>
+ * 테스트로 수정함.
  * 
  * @author Steven J.S Min
  * 
